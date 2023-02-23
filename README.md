@@ -1,9 +1,9 @@
 # yii2-php-LAMPP-learningRepo
 for self-learning yii2 php LAMPP
 
-##Install and setup
+##Install and setup  
 -On Arch Linux  
--Install XAMPP  
--Install Composer  
--Install yii2 using Composer  
+-Install XAMPP (git clone from AUR xampp page, in cloned dir run makepkg, then run pamac build xampp)  
+-Install Composer (composer is to php what pip is to python, run pacman -Syu composer)  
+-Install yii2 using Composer   
 
